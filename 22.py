@@ -1,4 +1,4 @@
-
+#superBido ;)
 open_file = open("names.txt","r")
 dic = open_file.read()
 open_file.close()
